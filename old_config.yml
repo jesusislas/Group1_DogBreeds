@@ -1,9 +1,0 @@
-theme: jekyll-theme-primer
-title: Dog Breeds
-description: Predicting and classifying dog breeds!
-baseurl:
-markdown: kramdown
-kramdown:
-    math_engine: mathjax
-    input: GFM
-    syntax_highlighter: rouge
