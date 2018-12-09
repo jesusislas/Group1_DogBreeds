@@ -1,4 +1,4 @@
-
+##Dog Breeds EDA
 
 
 ```
@@ -382,7 +382,7 @@ model.fit_generator(datagen.flow(train_tensors, train_targets, batch_size=batch_
     600/600 [==============================] - 78s 130ms/step - loss: 4.5236 - acc: 0.0398
     Epoch 2/20
       1/600 [..............................] - ETA: 1:09 - loss: 4.8717 - acc: 0.0000e+00
-
+    
     /usr/local/lib/python3.6/dist-packages/keras/callbacks.py:434: RuntimeWarning: Can save best model only with val_loss available, skipping.
       'skipping.' % (self.monitor), RuntimeWarning)
 
