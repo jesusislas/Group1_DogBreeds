@@ -1,17 +1,16 @@
 ---
-title: E-109A Data Science Final Project
+title: The Case of the Italian Olives
 ---
 
-Edgardo Hernandez, Jesus Islas and Ajay Katta Group#1
+This is the home page
 
-**Motivation:**
+## Lets have fun
 
-The dog's market is a very important one and especially for businesses selling custom brands or products by breed type. For this reason, we have came up with  a model to predict and classify dog breeds just by looking into its image. 
+>here is a quote
 
-The model uses forward coonected networks (FCN) as well as convulational neural networks (CNN) to improve accuracy while predicting the images. 
+Here is *emph* and **bold**.
 
-## Dog Breed Clasification using neural network 
+Here is some inline math $\alpha = \frac{\beta}{\gamma}$ and, of-course, E rules:
 
-![img](https://cdn-images-1.medium.com/max/1600/1*bHnak3AMWoAFRBd5PnifpQ.png)
-
+$$ G_{\mu\nu} + \Lambda g_{\mu\nu}  = 8 \pi T_{\mu\nu} . $$
 
