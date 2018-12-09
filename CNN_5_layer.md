@@ -1,4 +1,12 @@
-## CNN 5 EDA
+---
+
+title: CNN 5 Model
+notebook: CNN_5_layer.ipynb
+nav_include: 2
+
+---
+
+## CNN 5 Model
 
 
 

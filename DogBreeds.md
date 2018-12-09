@@ -1,3 +1,13 @@
+---
+
+title: EDA
+notebook: DogBreeds.ipynb
+nav_include: 1
+
+---
+
+
+
 ##Dog Breeds EDA
 
 
