@@ -1,6 +1,6 @@
 theme: jekyll-theme-primer
-title: Support Vector Olives
-description: Keeping Italian Olives Pure!
+title: Dog Breeds
+description: Predicting and classifying dog breeds!
 baseurl:
 markdown: kramdown
 kramdown:
