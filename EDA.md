@@ -1,32 +1,35 @@
-
 ---
+
 title: Introduction and EDA
 notebook: EDA.ipynb
+
 nav_include: 1
+
 ---
+
+
 
 # Table of Contents
 
 1. [Data Exploration and exploratory data analysis](#DataExploration)
 
     a. [Data loading](#DataLoad)
-    
+
     b. [Total number of files](#TotalFiles)
-    
+
     c. [Display an image](#DisplayImage)
-    
+
     d. [Function to get file list with height, width and number of channels](#Function)
-    
+
     e. [Get image features and store in data frame](#DataFrame)
-    
+
     f. [Generate descriptive statistics](#Stats)
-    
+
     g. [Images distirbution of height, width and channels](#ImageDist)
-    
+
     h. [Count images with varying channels](#CountImages)
-    
+
     i. [Plot number of images](#PlotImages)
-    
 
 2. [Exploratory data analysis findings and conlcusions](#Conclusions)
 
@@ -174,7 +177,7 @@ display(dataset_all.head())
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -249,7 +252,7 @@ display(dataset_all.describe())
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }

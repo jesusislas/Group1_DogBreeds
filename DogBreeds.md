@@ -1,6 +1,6 @@
 ---
 
-title: EDA
+title: Model
 notebook: DogBreeds.ipynb
 nav_include: 2
 
